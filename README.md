@@ -5,7 +5,7 @@ application adds two command lines, the first one uses to get the public IP and 
 
 External library: 
 ```golang
-go get https://github.com/urfave/cli
+go get github.com/urfave/cli
 ```
 
 Code: 
